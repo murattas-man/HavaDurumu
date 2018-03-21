@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "817745106249",
+    "firebase_url": "https://havadurumu7-2da2a.firebaseio.com",
+    "project_id": "havadurumu7-2da2a",
+    "storage_bucket": "havadurumu7-2da2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817745106249:android:81df4d373376f396",
+        "android_client_info": {
+          "package_name": "com.example.murti.havadurumu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817745106249-5tuh5rkk4cl5bg1k3khe7m1t4homblme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.murti.havadurumu",
+            "certificate_hash": "a85842fd3be7ab66eec6bb4c242142b8dded26ec"
+          }
+        },
+        {
+          "client_id": "817745106249-5o2gqkbqg8v0ducedl2nd44ie7345bg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBGYsFkvaIFQbnaw5nu_4wzerCJ2vp50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817745106249-5o2gqkbqg8v0ducedl2nd44ie7345bg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
