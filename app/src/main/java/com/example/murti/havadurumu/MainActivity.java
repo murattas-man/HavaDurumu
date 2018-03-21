@@ -15,6 +15,7 @@ import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends AppCompatActivity {
     private AdView mAdView;
+    private  String deneme="deneme";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
