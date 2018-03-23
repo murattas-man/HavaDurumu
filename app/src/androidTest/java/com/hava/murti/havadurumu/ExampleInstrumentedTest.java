@@ -1,4 +1,4 @@
-package com.example.murti.havadurumu;
+package com.hava.murti.havadurumu;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.example.murti.havadurumu;
+package com.hava.murti.havadurumu;
 
 import org.junit.Test;
 

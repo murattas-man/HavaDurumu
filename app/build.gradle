@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.murti.havadurumu"
+        applicationId "com.hava.murti.havadurumu"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
@@ -17,7 +17,6 @@ android {
         }
     }
 }
-
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.android.support:appcompat-v7:26.1.0'

@@ -1,4 +1,4 @@
-package com.example.murti.havadurumu;
+package com.hava.murti.havadurumu;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;

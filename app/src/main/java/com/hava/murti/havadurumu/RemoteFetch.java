@@ -1,4 +1,4 @@
-package com.example.murti.havadurumu;
+package com.hava.murti.havadurumu;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -8,9 +8,6 @@ import java.net.URL;
 import org.json.JSONObject;
 
 import android.content.Context;
-import android.util.Log;
-
-import com.example.murti.havadurumu.R;
 
 /**
  * Created by murti on 03.03.2018.
